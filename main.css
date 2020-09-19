@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding:0;
+    background-color: rgb(244,195,5);
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+
+.profile {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.profile-name p {
+    margin: 0;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    padding-top: 10px;
+    border-radius: 100px;  
+}
+
+h1, h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.profile-photo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-photo p {
+    padding-left: 10px;
+    }
+
+p, li {
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+ul {
+    list-style: none;
+}
+
+.main-box {
+    border-bottom: palegoldenrod solid 2px;
+    display: flex;
+}
+
+.main-box h2 {
+    flex:1;
+}
+
+.main-box p {
+    flex: 2;
+}
+
+.main-box ul {
+    flex: 2;
+    padding-left: 0;
+}
+
+h2 {
+    padding-top: 20px;
+}
