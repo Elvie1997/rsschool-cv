@@ -5,7 +5,7 @@
 ### Elvie Russe
 
 e-mail: cutegirlrusse@gmail.com  
-telegram: @xxx
+telegram: @Russian_Gangsta
 
 ## General info:
 
